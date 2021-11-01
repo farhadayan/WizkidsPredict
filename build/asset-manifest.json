@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/farhadayan/WizkidsPredict/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/farhadayan/WizkidsPredict/static/js/main.1a7d73bb.chunk.js",
+    "main.js.map": "/farhadayan/WizkidsPredict/static/js/main.1a7d73bb.chunk.js.map",
+    "runtime-main.js": "/farhadayan/WizkidsPredict/static/js/runtime-main.ee9a650b.js",
+    "runtime-main.js.map": "/farhadayan/WizkidsPredict/static/js/runtime-main.ee9a650b.js.map",
+    "static/js/2.750359e9.chunk.js": "/farhadayan/WizkidsPredict/static/js/2.750359e9.chunk.js",
+    "static/js/2.750359e9.chunk.js.map": "/farhadayan/WizkidsPredict/static/js/2.750359e9.chunk.js.map",
+    "index.html": "/farhadayan/WizkidsPredict/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/farhadayan/WizkidsPredict/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.750359e9.chunk.js.LICENSE.txt": "/farhadayan/WizkidsPredict/static/js/2.750359e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee9a650b.js",
+    "static/js/2.750359e9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1a7d73bb.chunk.js"
+  ]
+}
